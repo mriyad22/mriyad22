@@ -9,10 +9,8 @@
 Building secure web applications and solving real-world problems with code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github)](https://github.com/mriyad22)
-![Software Engineering](?style=for-the-badge)
+![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-0EA5E9?style=for-the-badge)
 ![Cybersecurity](https://img.shields.io/badge/Interest-Cybersecurity-8B5CF6?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=mriyad22&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
-
 </div>
 
 ---
@@ -66,7 +64,8 @@ I'm a Computer Science & Technology (CST) student at Dhaka Polytechnic Institute
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-
+![Nessus](https://img.shields.io/badge/Nessus-00A88F?style=for-the-badge&logo=tenable&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -138,11 +137,13 @@ A quiz game project focused on interactive quizzes and programming practice.
 
 ## 🎯 Current Goals
 
-- Build production-quality Django applications
-- Improve backend architecture and database design
-- Practice secure web development and vulnerability assessment
-- Strengthen Java and problem-solving skills
-- Write clear documentation for portfolio projects
+- 🏗️ **Backend Engineering:** Design and develop scalable, maintainable, and production-ready Django applications.
+- 🗄️ **Database Architecture:** Strengthen database modeling, query optimization, and relational database design.
+- 🔐 **Application Security:** Integrate secure coding practices and conduct structured web application vulnerability assessments.
+- ☕ **Software Engineering:** Enhancing object-oriented programming design, and problem-solving capabilities.
+- 🧪 **Quality & Reliability:** Improve application testing, debugging, and code quality.
+- 📚 **Technical Documentation:** Maintain comprehensive project documentation covering architecture, implementation decisions, and security considerations.
+- 🚀 **Continuous Improvement:** Build practical projects that demonstrate software engineering skills and security awareness.
 
 ---
 

@@ -68,52 +68,6 @@ I'm a Computer Science & Technology (CST) student at Dhaka Polytechnic Institute
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ---
 
-## 🚀 Featured Projects
-
-### 💼 Job Portal
-A job portal project focused on job listings, recruitment workflows, and applications.
-
-**Focus:** Django · Python · Web Development
-
-[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Job_portal_project)
-
-### 🔌 Function-Based REST API
-A Python project exploring function-based REST API development.
-
-**Focus:** Python · Django REST Framework
-
-[![View Repository](https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/fun-DRF)
-
-### 🛡️ PhishGuard
-A phishing URL detection project focused on suspicious URL analysis, risk scoring, and security reporting.
-
-**Focus:** Django · Python · Web Security
-
-[![Explore Repositories](https://img.shields.io/badge/Explore_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://phishguard.pybrothers.top/)
-### ☕ Java Programming
-A collection of Java programming exercises and practice projects.
-
-**Focus:** Java · OOP · Problem Solving
-
-[![View Repository](https://img.shields.io/badge/View_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Java_programming)
-
-### 🧮 Calorie Counter
-A calorie counter project for estimating daily calorie needs.
-
-**Focus:** Python · Application Development
-
-[![View Repository](https://img.shields.io/badge/View_Repository-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Calory_Counter_Project)
-
-### 🎮 Quiz Portal
-A quiz game project focused on interactive quizzes and programming practice.
-
-**Focus:** Python · Game Logic
-
-[![View Repository](https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Quiz-portal)
-
-[![Explore All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22?tab=repositories)
-
----
 
 ## 📊 GitHub Analytics
 

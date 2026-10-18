@@ -89,8 +89,7 @@ A phishing URL detection project focused on suspicious URL analysis, risk scorin
 
 **Focus:** Django · Python · Web Security
 
-[![Explore Web](https://phishguard.pybrothers.top/)]
-
+[![Explore Repositories](https://img.shields.io/badge/Explore_Repositories-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://phishguard.pybrothers.top/)
 ### ☕ Java Programming
 A collection of Java programming exercises and practice projects.
 

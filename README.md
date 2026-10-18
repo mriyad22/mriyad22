@@ -1,436 +1,173 @@
 
+![Riyad Bepari - Developer Banner](assets/github-banner.png)
 
-<!--
+<h1 align="center">Hi, I'm Riyad Bepari 👋</h1>
 
-GitHub Profile README
+<h3 align="center">Python & Django Developer | Java Programmer | Cybersecurity Enthusiast</h3>
 
-Username: mriyad22
-
-Banner file: assets/github-banner.png
-
-\-->
-
-
-
-<div align="center">
-
-
-
-<img src="assets/github-banner.png" width="100%" alt="Riyad Bepari - Developer Profile Banner" />
-
-
-
-\# Hi, I'm Riyad Bepari 👋
-
-
-
-\### Python \& Django Developer | Java Programmer | Cybersecurity Enthusiast
-
-
-
-Building secure web applications and solving real-world problems with code.
-
-
-
-<p>
-
-&#x20; <a href="https://github.com/mriyad22">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge\&logo=github" alt="GitHub" />
-
-&#x20; </a>
-
-&#x20; <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" alt="Web Development" />
-
-&#x20; <img src="https://img.shields.io/badge/Interest-Cybersecurity-8B5CF6?style=for-the-badge" alt="Cybersecurity" />
-
+<p align="center">
+  Building secure web applications and solving real-world problems with code.
 </p>
 
-
-
-<p>
-
-&#x20; <img src="https://komarev.com/ghpvc/?username=mriyad22\&style=flat-square\&color=6366F1\&label=PROFILE+VIEWS" alt="Profile views" />
-
+<p align="center">
+  <a href="https://github.com/mriyad22">
+    <img src="https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-0EA5E9?style=for-the-badge" alt="Web Development">
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-8B5CF6?style=for-the-badge" alt="Cybersecurity">
 </p>
 
+---
 
+## 👨‍💻 About Me
 
-</div>
+I'm a Computer Science & Technology (CST) student at Dhaka Polytechnic Institute, Bangladesh, passionate about backend development, software engineering and cybersecurity.
 
-
-
-\---
-
-
-
-\## 👨‍💻 About Me
-
-
-
-I'm a Computer Science \& Technology (CST) student at Dhaka Polytechnic Institute, Bangladesh, passionate about software development, backend engineering, and cybersecurity.
-
-
-
-\- 🐍 Developing web applications with Python and Django
-
-\- ☕ Practicing Java and object-oriented programming
-
-\- 🌐 Building projects with HTML, CSS, Bootstrap and JavaScript
-
-\- 🔐 Learning web application security and ethical penetration testing
-
-\- 🛠️ Interested in secure coding, vulnerability assessment and security reporting
-
-\- 📚 Continuously improving my problem-solving and software engineering skills
-
-
+- 🐍 Developing web applications with Python and Django
+- ☕ Practicing Java and object-oriented programming
+- 🌐 Building websites with HTML, CSS, Bootstrap and JavaScript
+- 🔐 Learning web application security and ethical penetration testing
+- 🛠️ Interested in secure coding and vulnerability assessment
+- 🚀 Continuously improving my problem-solving skills
 
 > My goal is to build reliable, maintainable and secure software that solves real problems.
 
+---
 
+## 🛠️ Tech Stack
 
-\---
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+**Frameworks & Web Development**
 
-\## 🧰 Tech Stack
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+**Databases & Tools**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-\### Languages
+**Cybersecurity**
 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
+---
 
-<p>
+## 🚀 Featured Projects
 
-&#x20; <img src="https://skillicons.dev/icons?i=python,java,html,css,js" alt="Python, Java, HTML, CSS and JavaScript" />
+### 💼 1. Job Portal
 
-</p>
+A web application project focused on job listings, recruitment workflows and applications.
 
+**Technologies:** Django · Python · Web Development
 
+[![View Repository](https://img.shields.io/badge/View_Repository-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Job_portal_project)
 
-\### Frameworks \& Web Development
+---
 
+### 🔌 2. Function-Based REST API
 
+A Python project exploring function-based REST API development with Django REST Framework.
 
-<p>
+**Technologies:** Python · Django REST Framework
 
-&#x20; <img src="https://skillicons.dev/icons?i=django,bootstrap,wordpress" alt="Django, Bootstrap and WordPress" />
+[![View Repository](https://img.shields.io/badge/View_Repository-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/fun-DRF)
 
-</p>
+---
 
+### 🛡️ 3. PhishGuard
 
+A phishing URL detection project focused on suspicious URL analysis, risk scoring and security reporting.
 
-\### Databases \& Development Tools
+**Technologies:** Django · Python · Web Security
 
+[![Explore Projects](https://img.shields.io/badge/Explore_Projects-0891B2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22?tab=repositories)
 
+---
 
-<p>
+### ☕ 4. Java Programming
 
-&#x20; <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,vscode,pycharm,linux" alt="Databases and development tools" />
+A collection of Java programming exercises and practice projects.
 
-</p>
+**Technologies:** Java · OOP · Problem Solving
 
+[![View Repository](https://img.shields.io/badge/View_Repository-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Java_programming)
 
+---
 
-\### Cybersecurity
-
-
-
-<p>
-
-&#x20; <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge\&logo=kalilinux\&logoColor=white" alt="Kali Linux" />
-
-&#x20; <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge\&logo=burpsuite\&logoColor=white" alt="Burp Suite" />
-
-&#x20; <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge" alt="Nmap" />
-
-&#x20; <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge\&logo=owasp\&logoColor=white" alt="OWASP" />
-
-</p>
-
-
-
-\---
-
-
-
-\## 🚀 Featured Projects
-
-
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-
-
-\### 💼 Job Portal
-
-
-
-A job portal project focused on job listings, recruitment workflows and applications.
-
-
-
-\*\*Focus:\*\* Django · Python · Web Development
-
-
-
-\[!\[Repository](https://img.shields.io/badge/View-Repository-2563EB?style=for-the-badge\&logo=github)](https://github.com/mriyad22/Job\_portal\_project)
-
-
-
-</td>
-
-<td width="50%">
-
-
-
-\### 🔌 Function-Based REST API
-
-
-
-A Python project exploring function-based REST API development.
-
-
-
-\*\*Focus:\*\* Python · Django REST Framework
-
-
-
-\[!\[Repository](https://img.shields.io/badge/View-Repository-7C3AED?style=for-the-badge\&logo=github)](https://github.com/mriyad22/fun-DRF)
-
-
-
-</td>
-
-</tr>
-
-
-
-<tr>
-
-<td width="50%">
-
-
-
-\### 🛡️ PhishGuard
-
-
-
-A phishing URL detection project designed around suspicious URL analysis, risk scoring and security reporting.
-
-
-
-\*\*Focus:\*\* Django · Python · Web Security
-
-
-
-\[!\[Explore Projects](https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge\&logo=github)](https://github.com/mriyad22?tab=repositories)
-
-
-
-</td>
-
-<td width="50%">
-
-
-
-\### ☕ Java Programming
-
-
-
-A collection of Java practice projects and programming exercises.
-
-
-
-\*\*Focus:\*\* Java · OOP · Problem Solving
-
-
-
-\[!\[Repository](https://img.shields.io/badge/View-Repository-F59E0B?style=for-the-badge\&logo=github)](https://github.com/mriyad22/Java\_programming)
-
-
-
-</td>
-
-</tr>
-
-
-
-<tr>
-
-<td width="50%">
-
-
-
-\### 🧮 Calorie Counter
-
-
+### 🧮 5. Calorie Counter
 
 A calorie counter project for estimating daily calorie needs.
 
+**Technologies:** Python · Application Development
 
+[![View Repository](https://img.shields.io/badge/View_Repository-EC4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Calory_Counter_Project)
 
-\*\*Focus:\*\* Python · Application Development
+---
 
-
-
-\[!\[Repository](https://img.shields.io/badge/View-Repository-EC4899?style=for-the-badge\&logo=github)](https://github.com/mriyad22/Calory\_Counter\_Project)
-
-
-
-</td>
-
-<td width="50%">
-
-
-
-\### 🎮 Quiz Portal
-
-
+### 🎮 6. Quiz Portal
 
 A quiz game project focused on interactive quizzes and programming practice.
 
+**Technologies:** Python · Game Logic
 
+[![View Repository](https://img.shields.io/badge/View_Repository-14B8A6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22/Quiz-portal)
 
-\*\*Focus:\*\* Python · Game Logic
+[![Explore All Repositories](https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22?tab=repositories)
 
+---
 
-
-\[!\[Repository](https://img.shields.io/badge/View-Repository-14B8A6?style=for-the-badge\&logo=github)](https://github.com/mriyad22/Quiz-portal)
-
-
-
-</td>
-
-</tr>
-
-</table>
-
-
+## 📊 GitHub Analytics
 
 <p align="center">
-
-&#x20; <a href="https://github.com/mriyad22?tab=repositories">
-
-&#x20;   <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge\&logo=github\&logoColor=white" alt="Explore all repositories" />
-
-&#x20; </a>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mriyad22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriyad22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
 </p>
 
-
-
-\---
-
-
-
-\## 📊 GitHub Analytics
-
-
-
-<div align="center">
-
-
-
-<a href="https://github.com/mriyad22">
-
-&#x20; <img height="165" src="https://github-readme-stats.vercel.app/api?username=mriyad22\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&rank\_icon=github" alt="GitHub statistics" />
-
-</a>
-
-
-
-<a href="https://github.com/mriyad22">
-
-&#x20; <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriyad22\&layout=compact\&theme=tokyonight\&hide\_border=true" alt="Most used languages" />
-
-</a>
-
-
-
-</div>
-
-
-
-<div align="center">
-
-
-
-<img width="95%" src="https://streak-stats.demolab.com?user=mriyad22\&theme=tokyonight\&hide\_border=true" alt="GitHub contribution streak" />
-
-
-
-</div>
-
-
-
-\---
-
-
-
-\## 🎯 Current Goals
-
-
-
-\- Build production-quality Django applications
-
-\- Improve backend architecture and database design
-
-\- Practice secure web development and vulnerability assessment
-
-\- Strengthen Java and problem-solving skills
-
-\- Create well-documented portfolio projects
-
-
-
-\---
-
-
-
-\## 🤝 Connect With Me
-
-
-
-<p>
-
-&#x20; <a href="https://github.com/mriyad22">
-
-&#x20;   <img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-181717?style=for-the-badge\&logo=github" alt="GitHub" />
-
-&#x20; </a>
-
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=mriyad22&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 </p>
 
+---
 
+## 🎯 Current Goals
 
-<!-- Add your verified LinkedIn, portfolio and professional email links here. -->
+- Build production-quality Django applications
+- Improve backend architecture and database design
+- Practice secure web development and vulnerability assessment
+- Strengthen Java and problem-solving skills
+- Write professional documentation for portfolio projects
 
+---
 
+## 🤝 Connect With Me
 
-\---
+<p align="center">
+  <a href="https://github.com/mriyad22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <!-- Add your verified LinkedIn URL here -->
+</p>
 
+---
 
+<h3 align="center">💡 Code. Secure. Build. Grow.</h3>
 
-<div align="center">
-
-
-
-\### 💡 Code. Secure. Build. Grow.
-
-
-
-\*Keep learning. Keep building. Keep securing.\*
-
-
-
-</div>
-
-
-
+<p align="center">
+  <i>Keep learning. Keep building. Keep securing.</i>
+</p>

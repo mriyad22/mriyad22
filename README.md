@@ -9,8 +9,8 @@
 Building secure web applications and solving real-world problems with code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github)](https://github.com/mriyad22)
-![Software Engineering]
-![Cybersecurity]
+[![Software Engineering](https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github)](https://github.com/mriyad22)
+[![Cybersecurity](https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github)](https://github.com/mriyad22)(https://img.shields.io/badge/Interest-Cybersecurity-8B5CF6?style=for-the-badge)
 ![Profile Views](https://komarev.com/ghpvc/?username=mriyad22&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS)
 
 </div>
@@ -57,6 +57,8 @@ I'm a Computer Science & Technology (CST) student at Dhaka Polytechnic Institute
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
 **Cybersecurity**
 

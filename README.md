@@ -4,9 +4,9 @@
 
 
 
-<h1 align="center">
+<h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Riyad+Bepari+%F0%9F%91%8B" alt="Hi, I'm Riyad Bepari" />
-</h1>
+</h2>
 
 
 ### Python & Django Developer | Java Programmer | Cybersecurity Specialist

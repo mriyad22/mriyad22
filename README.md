@@ -9,7 +9,7 @@
 </h2>
 
 
-### Python & Django Developer | Java Programmer | Cybersecurity Specialist
+### Python & Django Developer | Programmer | Cybersecurity Specialist
 
 Building secure web applications and solving real-world problems with code.
 
@@ -22,7 +22,7 @@ Building secure web applications and solving real-world problems with code.
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science & Technology (CST) student at Dhaka Polytechnic Institute, Bangladesh, interested in backend development, software engineering, and cybersecurity.
+I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic Institute. I am highly interested in backend engineering, software engineering, and cybersecurity.
 
 - 🐍 Building robust, scalable, and maintainable web applications
 - ☕ Applying object-oriented programming principles and software design concepts

@@ -15,7 +15,7 @@ Building secure web applications and solving real-world problems with code.
 
 [![GitHub](https://img.shields.io/badge/GitHub-mriyad22-181717?style=for-the-badge&logo=github)](https://github.com/mriyad22)
 ![Software Engineering](https://img.shields.io/badge/Focus-Software%20Engineering-0EA5E9?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Interest-Cybersecurity-8B5CF6?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Specialization-Cybersecurity-8B5CF6?style=for-the-badge)
 </div>
 
 ---

@@ -78,8 +78,8 @@ I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic In
 
 <div align="center">
 
-<a href="https://github.com">
-  <img height="165" src="https://vercel.app" alt="GitHub statistics" />
+<a href="https://github.com/mriyad22">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mriyad22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/mriyad22">

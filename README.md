@@ -79,13 +79,11 @@ I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic In
 <div align="center">
 
 <a href="https://github.com/mriyad22">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mriyad22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mriyad22&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
 </a>
 
 <a href="https://github.com/mriyad22">
-
-&#x20; <img height="165" src="https://github-readme-stats.vercel.app/api?username=mriyad22\&show\_icons=true\&theme=tokyonight\&hide\_border=true\&rank\_icon=github" alt="GitHub statistics" />
-
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mriyad22&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </a>
 
 <br>

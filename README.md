@@ -5,7 +5,7 @@
 
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+repository...+%F0%9F%91%8B" alt="Welcome to my GitHub repository..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome%2C+to+my+GitHub+repository+%F0%9F%91%8B" alt="Welcome to my GitHub repository..." />
 </h2>
 
 

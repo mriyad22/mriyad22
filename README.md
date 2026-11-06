@@ -20,22 +20,22 @@ Building secure web applications and solving real-world problems with code.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic Institute. I am highly interested in backend engineering, software engineering, and cybersecurity.
+I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic Institute, deep diving into backend engineering, software engineering, and cybersecurity.
 
-- 🐍 Building robust, scalable, and maintainable web applications
-- ☕ Applying object-oriented programming principles and software design concepts
-- 🌐 Creating responsive and user-friendly interfaces with HTML, CSS, Bootstrap, and JavaScript
-- 🔐 Conducting security assessments and evaluating common web application vulnerabilities
-- 🛡️ Focused on secure coding practices, vulnerability analysis, and professional security reporting
-- 🚀 Continuously enhancing code quality, problem-solving, and application architecture skills
+- Building robust, scalable, and maintainable web applications
+- Applying object-oriented programming principles and software design concepts
+- Creating responsive and user-friendly interfaces with HTML, CSS, Bootstrap, and JavaScript
+- Conducting security assessments and evaluating common web application vulnerabilities
+- Focused on secure coding practices, vulnerability analysis, and professional security reporting
+- Continuously enhancing code quality, problem-solving, and application architecture skills
 
 > My goal is to build reliable, maintainable, and secure software that solves real problems.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -74,7 +74,7 @@ I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic In
 ---
 
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -94,19 +94,19 @@ I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic In
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
-- 🏗️ **Backend Engineering:** Design and develop scalable, maintainable, and production-ready Django applications.
-- 🗄️ **Database Architecture:** Strengthen database modeling, query optimization, and relational database design.
-- 🔐 **Application Security:** Integrate secure coding practices and conduct structured web application vulnerability assessments.
-- ☕ **Software Engineering:** Enhancing object-oriented programming design, and problem-solving capabilities.
-- 🧪 **Quality & Reliability:** Improve application testing, debugging, and code quality.
-- 📚 **Technical Documentation:** Maintain comprehensive project documentation covering architecture, implementation decisions, and security considerations.
-- 🚀 **Continuous Improvement:** Build practical projects that demonstrate software engineering skills and security awareness.
+- **Backend Engineering:** Design and develop scalable, maintainable, and production-ready Django applications.
+- **Database Architecture:** Strengthen database modeling, query optimization, and relational database design.
+- **Application Security:** Integrate secure coding practices and conduct structured web application vulnerability assessments.
+- **Software Engineering:** Enhancing object-oriented programming design, and problem-solving capabilities.
+- **Quality & Reliability:** Improve application testing, debugging, and code quality.
+- **Technical Documentation:** Maintain comprehensive project documentation covering architecture, implementation decisions, and security considerations.
+- **Continuous Improvement:** Build practical projects that demonstrate software engineering skills and security awareness.
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mriyad22)
 
@@ -116,7 +116,7 @@ I am a Computer Science & Technology (CST) student at Dhaka Govt. Polytechnic In
 
 <div align="center">
 
-### 💡 Code. Secure. Build. Grow.
+### Code. Secure. Build. Grow.
 
 *Keep learning. Keep building. Keep securing.*
 
